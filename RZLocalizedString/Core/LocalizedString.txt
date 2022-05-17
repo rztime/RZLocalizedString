@@ -1,0 +1,10 @@
+/*				
+注意！注意！注意！				
+iOS 本地化多语言支持，请用Office\WPS Excel表格打开本文档编辑，否则将导致错误				
+id唯一，将用作语言匹配				
+*/				
+[------------------------------star------------------------------]				
+	简体中文	繁体中文	英文	俄语
+id	zh-Hans	zh-Hant	en	ru
+1	APP名字	APP名字	App Name	APP - имя
+failure	网络错误	網絡錯誤	network failure	Ошибка сети
